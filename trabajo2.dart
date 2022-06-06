@@ -4,7 +4,6 @@ import 'dart:core';
 void main() {
   double val1 = 0, val2 = 0, res = 0;
   List<double> lista = [2.8, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0];
-  print(lista.length);
   String op, lector;
   stdout.write("Ingrese el primer valor: ");
   lector = stdin.readLineSync() as String;
