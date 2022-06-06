@@ -62,6 +62,7 @@ double sumatoria(List lista) {
   }
   return res;
 }
+
 double producto(List lista) {
   double res = 1;
   for (int i = 0; i < lista.length; i++) {
